@@ -4,6 +4,8 @@ mysql -h 45.76.204.252 -u id -p
 
 password : password
 
+use reservation;  [스키마 reservation을 확인 할 수 있다.]
+
 읽기 전용 계정이며 보안상 관리자 계정을 올리지 않습니다.
 
 add. 기본 관리자 root로 설정했으며 새로운 관리자 hongik으로 설정함
